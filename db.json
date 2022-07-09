@@ -1,0 +1,372 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "food",
+      "name": "Apple",
+      "url": "https://media.istockphoto.com/photos/red-apple-picture-id184276818?b=1&k=20&m=184276818&s=612x612&w=0&h=P2SeCVIuTUdiq0zfSMGaC7WeCFYbe4ZdciGEOTurkQs=",
+      "price": 2
+    },
+    {
+      "id": 2,
+      "type": "food",
+      "name": "Pear",
+      "url": "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/pears_commodity-page.png",
+      "price": 3
+    },
+    {
+      "id": 3,
+      "type": "food",
+      "name": "Pomegranate",
+      "url": "https://produits.bienmanger.com/40241-0w600h600_Organic_Pomegranate_Hicaz.jpg",
+      "price": 4
+    },
+    {
+      "id": 4,
+      "type": "food",
+      "name": "Banana",
+      "url": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30086005/30086005_0_MC/8796857466930_1613125839167.jpg",
+      "price": 5
+    },
+    {
+      "id": 5,
+      "type": "food",
+      "name": "lettuce",
+      "url": "https://www.cagri.com/Uploads/UrunResimleri/marul-adet-a652.jpg",
+      "price": 1
+    },
+    {
+      "id": 6,
+      "type": "food",
+      "name": "tomatoes",
+      "url": "https://mygos.com.tr/wp-content/uploads/2019/12/p3.jpg",
+      "price": 2
+    },
+    {
+      "id": 7,
+      "type": "phone",
+      "name": "iPhone 13",
+      "url": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2022-spring-iphone13-colors.png"
+    },
+    {
+      "id": 8,
+      "type": "phone",
+      "name": "iPhone 12",
+      "url": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/2021-iphone12-colors.png"
+    },
+    {
+      "id": 9,
+      "type": "phone",
+      "name": "iPhone 11",
+      "url": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/identify-iphone-11-colors.jpg"
+    },
+    {
+      "id": 10,
+      "type": "phone",
+      "name": "iPhone X",
+      "url": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone-x-colors.jpg"
+    },
+    {
+      "id": 11,
+      "type": "phone",
+      "name": "iPhone 8",
+      "url": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone8/iphone-8-colors.jpg"
+    },
+    {
+      "id": 12,
+      "type": "phone",
+      "name": "iPhone 7",
+      "url": "https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iphone/iphone7/iphone7-colors.jpg"
+    },
+    {
+      "id": 13,
+      "type": "car",
+      "name": "Car 1",
+      "url": "https://randompicturegenerator.com/img/car-generator/g3390161cfd4f0ef83b36447cfc716c0cd62a919f2f22a7ad6af5b697494c804c48312f297bc6d9dd81b5789c6110fbfa_640.jpg"
+    },
+    {
+      "id": 14,
+      "type": "car",
+      "name": "Car 2",
+      "url": "https://randompicturegenerator.com/img/car-generator/g79d62766cf76e09898f323e852776aac0f14e31686f1057acfc4321791f98d29677085665211dee7a62a338a4c309fe1_640.jpg"
+    },
+    {
+      "id": 15,
+      "type": "car",
+      "name": "Car 3",
+      "url": "https://randompicturegenerator.com/img/car-generator/g2289421c8d591f28a08f9b41571711c66bdaf09502db05659a87cb977f6cf48ea3bd5a24df823fcc3e0623c8974690ba_640.jpg"
+    },
+    {
+      "id": 16,
+      "type": "car",
+      "name": "Car 4",
+      "url": "https://randompicturegenerator.com/img/car-generator/g3390161cfd4f0ef83b36447cfc716c0cd62a919f2f22a7ad6af5b697494c804c48312f297bc6d9dd81b5789c6110fbfa_640.jpg"
+    },
+    {
+      "id": 17,
+      "type": "car",
+      "name": "Car 5",
+      "url": "https://randompicturegenerator.com/img/car-generator/g55938cab3ca5e1d6a85a240c8d3a1c3a732aca43a41b7b3cce22c49d27d96615d3fd1d16170172bff6920861c0e851cb_640.jpg"
+    }
+  ],
+  "basket": [
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "7",
+      "id": 1
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 2
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 3
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "4",
+      "id": 4
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "5",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "5",
+      "id": 6
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "5",
+      "id": 7
+    },
+    {
+      "name": "Pomegranate",
+      "price": 4,
+      "amount": "5",
+      "id": 8
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "7",
+      "id": 9
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "7",
+      "id": 10
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "7",
+      "id": 11
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 12
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 13
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 14
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 15
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "8",
+      "id": 16
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "74",
+      "id": 17
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "746",
+      "id": 18
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "746",
+      "id": 19
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "746",
+      "id": 20
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "746",
+      "id": 21
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "746",
+      "id": 22
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "78",
+      "id": 23
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "789",
+      "id": 24
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "789",
+      "id": 25
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "789",
+      "id": 26
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "789",
+      "id": 27
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "8",
+      "id": 28
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "8",
+      "id": 29
+    },
+    {
+      "name": "Banana",
+      "price": 5,
+      "amount": "8",
+      "id": 30
+    },
+    {
+      "name": "Banana",
+      "price": 5,
+      "amount": "8",
+      "id": 31
+    },
+    {
+      "name": "Banana",
+      "price": 5,
+      "amount": "8",
+      "id": 32
+    },
+    {
+      "name": "Banana",
+      "price": 5,
+      "amount": "8",
+      "id": 33
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "8",
+      "id": 34
+    },
+    {
+      "name": "Pomegranate",
+      "price": 4,
+      "amount": "8",
+      "id": 35
+    },
+    {
+      "name": "Pomegranate",
+      "price": 4,
+      "amount": "8",
+      "id": 36
+    },
+    {
+      "name": "Pomegranate",
+      "price": 4,
+      "amount": "8",
+      "id": 37
+    },
+    {
+      "name": "Pomegranate",
+      "price": 4,
+      "amount": "8",
+      "id": 38
+    },
+    {
+      "name": "Pomegranate",
+      "price": 4,
+      "amount": "8",
+      "id": 39
+    },
+    {
+      "name": "Apple",
+      "price": 2,
+      "amount": "7",
+      "id": 40
+    },
+    {
+      "name": "Pear",
+      "price": 3,
+      "amount": "7",
+      "id": 41
+    },
+    {
+      "name": "Banana",
+      "price": 5,
+      "amount": "7",
+      "id": 42
+    },
+    {
+      "name": "Banana",
+      "price": 5,
+      "amount": "7",
+      "id": 43
+    }
+  ]
+}

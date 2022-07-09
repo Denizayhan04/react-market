@@ -1,0 +1,146 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.App {
+  .header {
+    width: 100%;
+    height: 120px;
+    padding-top: 15px;
+    .categories {
+      display: flex;
+      margin-top: 10px;
+      justify-content: center;
+    }
+    h2 {
+      color: white;
+      font-size: 32px;
+      text-align: center;
+    }
+    ul {
+      margin: 10 auto;
+      width: 500px;
+      
+      justify-content: space-around;
+      list-style: none;
+      display: flex;
+      a {
+        text-decoration: none;
+        color: wheat;
+      }
+      li {
+        font-weight: bold;
+      }
+    }
+    background-color: green;
+  }
+  .leftbar{
+    position: fixed;
+    background-color: gray;
+    height: 100vh;
+    width: 200px;
+    left: 0px;
+    top: 0px;
+    h2{
+      text-align: center;
+      margin-top: 15px;
+    }
+    .leftbar-container{
+      z-index: 4;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      width: 160px;
+      height: 100%;
+      overflow-y: auto;
+      >div{
+
+        ul{
+          overflow-y: auto;
+          border: 2px solid black;
+          margin-top:70px ;
+          padding-top: 10px;
+          height: 700px;
+          width: 150px;
+          margin-left: 10px;
+          padding-left: 15px;
+          list-style: none;
+
+
+          li{
+            display: flex;
+            justify-content: space-around;
+            margin-top:10px;
+            width: 100%;
+          }
+        }
+      }
+    }
+
+
+    svg{
+      position: absolute;
+      transform: scale(70%);
+      right: 0px;
+      top: 0px;
+      cursor: pointer;
+
+    }
+  }
+  #openbar{
+    transform: scale(70%);
+    cursor: pointer;
+    position: absolute;
+    z-index: 4;
+    left: 0px;
+    top: 0px;
+  }
+  
+  .tabs {
+    width: 100%;
+    padding: 0 200px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: left;
+  }
+  .products {
+    background-color: #e4dccf;
+    width: 100%;
+    .product {
+      margin: 35px 30px;
+
+      width: 300px;
+      height: 350px;
+      border: 1px solid #96938e;
+      > div {
+        padding: 30px 0px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+          -webkit-appearance: none;
+          margin: 0;
+        }
+        img {
+          max-height: 200px;
+          max-width: 250px;
+        }
+        > div {
+          span {
+            font-size: larger;
+          }
+          input,
+          button {
+            font-size: large;
+          }
+        }
+      }
+    }
+  }
+}
